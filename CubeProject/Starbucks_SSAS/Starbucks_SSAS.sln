@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Starbucks_SSAS", "Starbucks_SSAS\Starbucks_SSAS.dwproj", "{36223FA6-1773-457C-8342-5AC1AAAE0DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36223FA6-1773-457C-8342-5AC1AAAE0DCE}.Development|Default.ActiveCfg = Development
+		{36223FA6-1773-457C-8342-5AC1AAAE0DCE}.Development|Default.Build.0 = Development
+		{36223FA6-1773-457C-8342-5AC1AAAE0DCE}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253BA378-84BB-4CEC-BB44-AF555FE572A6}
+	EndGlobalSection
+EndGlobal
